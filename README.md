@@ -8,4 +8,5 @@
   1. The first item
   2. Definitely the second item
   3. The greatest of thrid items
+---
 RIT HomePage (https://www.rit.edu/)
