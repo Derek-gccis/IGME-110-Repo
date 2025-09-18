@@ -10,3 +10,4 @@
   3. The greatest of thrid items
 ---
 RIT HomePage (https://www.rit.edu/)
+[RIT](https://www.rit.edu/)
